@@ -11,6 +11,10 @@ Segmenter les entreprises selon leur santé financière pour détecter des profi
 - Fichier : `Data_09092025.xlsx`
 - 4 254 lignes — 885 entreprises — 6 secteurs — 5 années  
 - Variables : ratios financiers, marges, délais, rentabilité, structure du bilan, etc.
+  #### 🔗 Données brutes du projet
+
+Les données brutes utilisées dans ce projet sont disponibles ici :  
+👉 [Lien vers les données brutes](https://urlz.fr/uYLr)
 
 ## 🔍 Étapes réalisées (EDA)
 - Inspection des dimensions et types
@@ -70,4 +74,4 @@ pandas, numpy, scikit-learn, matplotlib, seaborn, plotly,
 - Scripts modulaires dans `src/`
 
 ## 👤 Auteur
-**Mohamadou Hayatou**
+**Mohamadou Hayatou Abbassi**
