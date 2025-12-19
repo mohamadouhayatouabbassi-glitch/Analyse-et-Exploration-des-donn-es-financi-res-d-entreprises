@@ -49,5 +49,5 @@ Ces variables servent de base pour les analyses exploratoires et les modèles de
 
 ## Contributeurs
 
-- Équipe de développement : [Votre Nom]
+- Auteur Mohamadou Hayatou Abbassi
 - Date de dernière mise à jour : 19 Décembre 2025.
